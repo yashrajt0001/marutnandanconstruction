@@ -92,12 +92,12 @@ export const Carousel = () => {
 
       {/* Overlay Text */}
       <div className="absolute inset-0 bg-black bg-opacity-50 flex flex-col justify-center items-start py-4 px-8 md:p-8 text-white">
-        <h1 className="text-xl md:text-4xl font-bold leading-tight">
+        <h1 className="text-4xl md:text-6xl font-bold leading-tight">
           We Prepare <br /> For The{" "}
           <span className="text-[#ede8d0]">Future</span>
         </h1>
-        <p className="mt-2 md:mt-4 text-sm md:text-base max-w-[50%] break-words">
-          We provide the best architectural design, construction, and building
+        <p className="mt-2 md:mt-4 text-lg md:text-2xl max-w-[50%] break-words">
+          We provide the best interior  design, construction, and building
           maintenance services for you.
         </p>
         <div className="mt-4 md:mt-6 space-x-2 md:space-x-4">
